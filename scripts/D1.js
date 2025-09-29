@@ -17,7 +17,7 @@ REGOLE
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
-/* cons myName='Antonio'*/
+/* const myName='Antonio'*/
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
